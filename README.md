@@ -1,3 +1,11 @@
+# Link para projeto na web.
+
+https://effervescent-gecko-8ad5f7.netlify.app/
+
+# Link do Figma que foi baseado o projeto.
+
+https://www.figma.com/file/2S0izg58UFXoQg0wqxGLVr/Pizzaria-Labenu?node-id=165%3A2&t=lDwESaDpMGnanMNX-0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
