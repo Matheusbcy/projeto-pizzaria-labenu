@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "sabor": "Calabresa",
+    "value": 40,
+    "image": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpg"
+  },
+  {
+    "id": 1,
+    "sabor": "Frango",
+    "value": 44,
+    "image": "https://amp.receitadevovo.com.br/wp-content/uploads/2020/10/pizza-de-frango.jpg"
+  },
+  {
+    "id": 2,
+    "sabor": "HotDog",
+    "value": 38,
+    "image": "https://img.itdg.com.br/tdg/images/recipes/000/184/715/250166/250166_original.jpg?w=1200"
+  },
+  {
+    "id": 3,
+    "sabor": "Portuguesa",
+    "value": 41,
+    "image": "https://res.cloudinary.com/mrancho/cardapio/2016/06/pizza-portuguesa_min.jpg"
+  },
+  {
+    "id": 4,
+    "sabor": "Chocolate",
+    "value": 50,
+    "image": "https://img.itdg.com.br/images/recipes/000/055/212/131483/131483_original.jpg"
+  },
+  {
+    "id": 5,
+    "sabor": "Baiana",
+    "value": 40,
+    "image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-baiana-0.jpg"
+  }
+]
